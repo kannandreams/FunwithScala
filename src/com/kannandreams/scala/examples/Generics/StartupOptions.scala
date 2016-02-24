@@ -7,6 +7,7 @@ class StartupOptions extends CompanyOptions {
 
   println(companyName)
   override val companyCategory:String="Startup"
+
   val startupFunding:Int = 100
 
 }
