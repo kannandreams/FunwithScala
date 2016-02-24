@@ -5,7 +5,7 @@ package com.kannandreams.scala.examples.Generics
   */
 class StartupOptions extends CompanyOptions {
 
-  println(companyName)
+  //println(companyName)
   override val companyCategory:String="Startup"
 
   val startupFunding:Int = 100

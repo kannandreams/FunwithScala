@@ -5,13 +5,6 @@ package com.kannandreams.scala.examples.Generics
   */
 trait RegisterCompany[T <: StartupOptions ] {
 
-  def main(args: Array[String]) {
-
-    println(" Company Creation Starts in RegisterCompany Trait  \n =========================")
-
-
-  }
-
   def sayCongrats(options: T): Unit = {
 
     println("RegisterCompany Trait - sayCongrats Method")
