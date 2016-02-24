@@ -7,7 +7,7 @@ trait RegisterCompany[T <: StartupOptions ] {
 
   def main(args: Array[String]) {
 
-    println(" Company Creation Starts in RegisterCompany Trait  \n ==========================")
+    println(" Company Creation Starts in RegisterCompany Trait  \n =========================")
 
 
   }
