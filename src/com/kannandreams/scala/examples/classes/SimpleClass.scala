@@ -1,4 +1,4 @@
-package com.kannandreams.scala.examples.classes
+package com.kannandreams.scala.examples.Classes
 
 /**
   * Created by kkalidasan on 2/21/16.
